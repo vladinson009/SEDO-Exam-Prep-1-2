@@ -1,0 +1,14 @@
+/Users/vladinson/Desktop/prep-exam/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/bin/Debug/net6.0/SoftUniBazar.Data.deps.json
+/Users/vladinson/Desktop/prep-exam/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/bin/Debug/net6.0/SoftUniBazar.Data.runtimeconfig.json
+/Users/vladinson/Desktop/prep-exam/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/bin/Debug/net6.0/SoftUniBazar.Data.dll
+/Users/vladinson/Desktop/prep-exam/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/bin/Debug/net6.0/ref/SoftUniBazar.Data.dll
+/Users/vladinson/Desktop/prep-exam/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/bin/Debug/net6.0/SoftUniBazar.Data.pdb
+/Users/vladinson/Desktop/prep-exam/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.csproj.AssemblyReference.cache
+/Users/vladinson/Desktop/prep-exam/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladinson/Desktop/prep-exam/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.AssemblyInfoInputs.cache
+/Users/vladinson/Desktop/prep-exam/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.AssemblyInfo.cs
+/Users/vladinson/Desktop/prep-exam/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.csproj.CoreCompileInputs.cache
+/Users/vladinson/Desktop/prep-exam/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.dll
+/Users/vladinson/Desktop/prep-exam/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/ref/SoftUniBazar.Data.dll
+/Users/vladinson/Desktop/prep-exam/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.pdb
+/Users/vladinson/Desktop/prep-exam/SEDO-Exam-Prep-1-2/SoftUniBazar.Data/obj/Debug/net6.0/SoftUniBazar.Data.genruntimeconfig.cache
