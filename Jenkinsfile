@@ -10,13 +10,13 @@ pipeline {
 
         stage('Run the building prccess') {
             steps {
-                sh "dotnet build"
+                sh "dotnet build --no-restore"
             }
         }
 
         stage('Run Tests') {
             steps {
-                sh "dotnet test"
+                sh "dotnet test --no-build --verbosity normal"
             }
         }
     }
